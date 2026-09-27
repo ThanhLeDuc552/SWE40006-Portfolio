@@ -1,0 +1,13 @@
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\SplashScreen.scale-200.png
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\LockScreenLogo.scale-200.png
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\Square150x150Logo.scale-200.png
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\Square44x44Logo.scale-200.png
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\StoreLogo.png
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\Wide310x150Logo.scale-200.png
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\bin\AnyCPU\Release\resources.pri
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\NumberTools\bin\Release\NumberTools.dll
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\NumberTools\bin\Release\NumberTools.pdb
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\demoapp.exe
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\demoapp.exe.config
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\demoapp.pdb

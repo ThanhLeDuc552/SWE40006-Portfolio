@@ -1,0 +1,2 @@
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\SetupProject1\bin\Release\SetupProject1.msi
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\SetupProject1\bin\Release\SetupProject1.wixpdb

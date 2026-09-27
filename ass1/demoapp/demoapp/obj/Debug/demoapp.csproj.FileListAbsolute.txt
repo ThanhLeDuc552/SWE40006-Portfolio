@@ -1,0 +1,10 @@
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Debug\demoapp.exe.config
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Debug\demoapp.exe
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Debug\demoapp.pdb
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Debug\demoapp.csproj.AssemblyReference.cache
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Debug\demoapp.Form1.resources
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Debug\demoapp.Properties.Resources.resources
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Debug\demoapp.csproj.GenerateResource.cache
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Debug\demoapp.csproj.CoreCompileInputs.cache
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Debug\demoapp.exe
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Debug\demoapp.pdb

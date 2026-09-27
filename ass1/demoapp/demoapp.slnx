@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="demoapp/demoapp.csproj" Id="3a6fd5df-fe6d-4c8a-ba4b-6a8df6b943ad" />
+  <Project Path="NumberTools/NumberTools.csproj" Id="7f23375f-df8b-4f83-b524-f9717925f43d" />
+  <Project Path="SetupProject1/SetupProject1.wixproj" Id="21199b93-3c0f-486d-ae05-8b3ba04ae6dc">
+    <Platform Project="x86" />
+    <Build />
+  </Project>
+  <Project Path="WapProjTemplate1/WapProjTemplate1.wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="f0b6fbeb-6863-426a-bbd0-317e9499841a">
+    <Deploy />
+  </Project>
+</Solution>

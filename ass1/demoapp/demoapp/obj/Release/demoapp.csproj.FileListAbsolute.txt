@@ -1,0 +1,13 @@
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\demoapp.exe.config
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\demoapp.exe
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\demoapp.pdb
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Release\demoapp.csproj.AssemblyReference.cache
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Release\demoapp.Form1.resources
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Release\demoapp.Properties.Resources.resources
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Release\demoapp.csproj.GenerateResource.cache
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Release\demoapp.csproj.CoreCompileInputs.cache
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Release\demoapp.exe
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Release\demoapp.pdb
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\NumberTools.dll
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\NumberTools.pdb
+D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\obj\Release\demoapp.csproj.Up2Date

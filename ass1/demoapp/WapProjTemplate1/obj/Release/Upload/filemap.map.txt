@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\Upload\filemap.pri"			"resources.pri"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\Images\Wide310x150Logo.scale-200.png"			"Images\Wide310x150Logo.scale-200.png"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\Images\StoreLogo.png"			"Images\StoreLogo.png"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\Images\Square44x44Logo.targetsize-24_altform-unplated.png"			"Images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\Images\Square44x44Logo.scale-200.png"			"Images\Square44x44Logo.scale-200.png"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\Images\Square150x150Logo.scale-200.png"			"Images\Square150x150Logo.scale-200.png"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\Images\SplashScreen.scale-200.png"			"Images\SplashScreen.scale-200.png"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\Images\LockScreenLogo.scale-200.png"			"Images\LockScreenLogo.scale-200.png"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\demoapp\NumberTools.dll"			"demoapp\NumberTools.dll"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\demoapp\demoapp.exe.config"			"demoapp\demoapp.exe.config"
+"D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\PackageUploadLayout\demoapp\demoapp.exe"			"demoapp\demoapp.exe"

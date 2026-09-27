@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="SetupProject1" Language="1033" Version="1.0.0.0" Manufacturer="Duc Thanh Le" UpgradeCode="f04f5490-e571-4d6a-82c3-3705f07b5c6c">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="SetupProject1" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="DemoAppSoftEval" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="demoapp.exe" Guid="f604d07c-f27a-46cb-99c1-11cc3c5db886">
+				<File Id="demoapp.exe" Name="demoapp.exe" Source="$(var.demoapp.TargetDir)demoapp.exe"></File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-MD1C02L</Machine>
+    <WindowsUser>Thanh</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>LeDucThanhSwin.Incrementer</PackageIdentityName>
+    <PackageIdentityPublisher>CN=9766FB24-34DF-46F0-8F70-53FC28C251FF</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\obj\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\bin\AnyCPU\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\bin\AnyCPU\Release\Upload\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\bin\AnyCPU\Release\Upload\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\NumberTools\bin\Release\NumberTools.dll">
+      <PackagePath>demoapp\NumberTools.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\demoapp.exe">
+      <PackagePath>demoapp\demoapp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Swinburne Courses\Soft Eval\ass1\demoapp\demoapp\bin\Release\demoapp.exe.config">
+      <PackagePath>demoapp\demoapp.exe.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+MainPackage=D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\bin\AnyCPU\Release\Upload\WapProjTemplate1_1.0.5.0_AnyCPU.msix
+SymbolPackage=D:\Swinburne Courses\Soft Eval\ass1\demoapp\WapProjTemplate1\bin\AnyCPU\Release\Upload\WapProjTemplate1_1.0.5.0\WapProjTemplate1_1.0.5.0_AnyCPU.appxsym
